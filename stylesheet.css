@@ -20,6 +20,7 @@ a {
 .top-wrapper {
   padding: 180px 0 100px 0;
   background-image: url(IMG_8158.PNG);
+  background-color:transparent;
   background-size: cover;
   color: white;
   text-align: center;
